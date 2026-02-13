@@ -1,0 +1,7 @@
+# DrProspect - Map prospecting tool dependencies
+# H3 hexagon grid for location partitioning
+h3>=4.0.0
+# HTTP requests for Google Places API
+requests>=2.31.0
+# Load .env file for API key
+python-dotenv>=1.0.0
