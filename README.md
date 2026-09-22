@@ -56,3 +56,11 @@ python prospector.py "gardening" --lat 51.5074 --lng -0.1278 -o gardening.csv
 - **Checkpoint** – `prospects.checkpoint.json` stores processed place IDs and hexagons
 
 Re-running with the same output path continues from the last run and avoids duplicates.
+
+---
+
+## Author
+
+Built by **Saúl Hinojosa** — portfolio: [saulhinojosa.site](https://saulhinojosa.site)
+
+How it was built: [saulhinojosa.site/blog/drprospect/](https://saulhinojosa.site/blog/drprospect/)
